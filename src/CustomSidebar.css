@@ -1,0 +1,13 @@
+.sidebar {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: start;
+    text-align: center; */
+    font-size: 1rem;
+}
+
+
+.sidebar ul {
+    list-style: none;
+    
+}
